@@ -7,7 +7,7 @@ Summary(pl.UTF-8):	Motyw Sphinksa oparty na motywie Bootstrap, stworzony przez s
 Name:		python3-pydata_sphinx_theme
 # versions >= 0.8 require sphinx-theme-builder, which is not ready in PLD
 Version:	0.7.2
-Release:	3
+Release:	4
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/pydata-sphinx-theme/
